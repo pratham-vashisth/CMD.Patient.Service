@@ -1,0 +1,18 @@
+C:\Users\User\source\repos\CMD.Patients\CMD.Patients.DTOs\bin\Debug\CMD.Patients.DTOs.dll
+C:\Users\User\source\repos\CMD.Patients\CMD.Patients.DTOs\bin\Debug\CMD.Patients.DTOs.pdb
+C:\Users\User\source\repos\CMD.Patients\CMD.Patients.DTOs\obj\Debug\CMD.Patients.DTOs.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CMD.Patients\CMD.Patients.DTOs\obj\Debug\CMD.Patients.DTOs.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CMD.Patients\CMD.Patients.DTOs\obj\Debug\CMD.Patients.DTOs.dll
+C:\Users\User\source\repos\CMD.Patients\CMD.Patients.DTOs\obj\Debug\CMD.Patients.DTOs.pdb
+C:\Users\shash\OneDrive\Desktop\CMDApplication\Project\CMD.Patients\CMD.Patients.DTOs\bin\Debug\CMD.Patients.DTOs.dll
+C:\Users\shash\OneDrive\Desktop\CMDApplication\Project\CMD.Patients\CMD.Patients.DTOs\bin\Debug\CMD.Patients.DTOs.pdb
+C:\Users\shash\OneDrive\Desktop\CMDApplication\Project\CMD.Patients\CMD.Patients.DTOs\obj\Debug\CMD.Patients.DTOs.csproj.AssemblyReference.cache
+C:\Users\shash\OneDrive\Desktop\CMDApplication\Project\CMD.Patients\CMD.Patients.DTOs\obj\Debug\CMD.Patients.DTOs.csproj.CoreCompileInputs.cache
+C:\Users\shash\OneDrive\Desktop\CMDApplication\Project\CMD.Patients\CMD.Patients.DTOs\obj\Debug\CMD.Patients.DTOs.dll
+C:\Users\shash\OneDrive\Desktop\CMDApplication\Project\CMD.Patients\CMD.Patients.DTOs\obj\Debug\CMD.Patients.DTOs.pdb
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.DTOs\bin\Debug\CMD.Patients.DTOs.dll
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.DTOs\bin\Debug\CMD.Patients.DTOs.pdb
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.DTOs\obj\Debug\CMD.Patients.DTOs.csproj.AssemblyReference.cache
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.DTOs\obj\Debug\CMD.Patients.DTOs.csproj.CoreCompileInputs.cache
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.DTOs\obj\Debug\CMD.Patients.DTOs.dll
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.DTOs\obj\Debug\CMD.Patients.DTOs.pdb

@@ -1,0 +1,64 @@
+C:\Users\User\source\repos\CMD.Patients\CMD.Patients.Repository\obj\Debug\CMD.Patients.Repository.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CMD.Patients\CMD.Patients.Repository\obj\Debug\CMD.Patients.Repository.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CMD.Patients\CMD.Patients.Repository\bin\Debug\CMD.Patients.Repository.dll.config
+C:\Users\User\source\repos\CMD.Patients\CMD.Patients.Repository\bin\Debug\CMD.Patients.Repository.dll
+C:\Users\User\source\repos\CMD.Patients\CMD.Patients.Repository\bin\Debug\CMD.Patients.Repository.pdb
+C:\Users\User\source\repos\CMD.Patients\CMD.Patients.Repository\bin\Debug\CMD.Patients.Models.dll
+C:\Users\User\source\repos\CMD.Patients\CMD.Patients.Repository\bin\Debug\EntityFramework.dll
+C:\Users\User\source\repos\CMD.Patients\CMD.Patients.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\source\repos\CMD.Patients\CMD.Patients.Repository\bin\Debug\CMD.Patients.Models.pdb
+C:\Users\User\source\repos\CMD.Patients\CMD.Patients.Repository\bin\Debug\CMD.Patients.Models.dll.config
+C:\Users\User\source\repos\CMD.Patients\CMD.Patients.Repository\bin\Debug\EntityFramework.xml
+C:\Users\User\source\repos\CMD.Patients\CMD.Patients.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\source\repos\CMD.Patients\CMD.Patients.Repository\obj\Debug\CMD.Patients.Repository.csproj.CopyComplete
+C:\Users\User\source\repos\CMD.Patients\CMD.Patients.Repository\obj\Debug\CMD.Patients.Repository.dll
+C:\Users\User\source\repos\CMD.Patients\CMD.Patients.Repository\obj\Debug\CMD.Patients.Repository.pdb
+C:\Users\shash\OneDrive\Desktop\CMDApplication\Project\CMD.Patients\CMD.Patients.Repository\bin\Debug\CMD.Patients.Repository.dll.config
+C:\Users\shash\OneDrive\Desktop\CMDApplication\Project\CMD.Patients\CMD.Patients.Repository\bin\Debug\CMD.Patients.Repository.dll
+C:\Users\shash\OneDrive\Desktop\CMDApplication\Project\CMD.Patients\CMD.Patients.Repository\bin\Debug\CMD.Patients.Repository.pdb
+C:\Users\shash\OneDrive\Desktop\CMDApplication\Project\CMD.Patients\CMD.Patients.Repository\bin\Debug\CMD.Patients.Models.dll
+C:\Users\shash\OneDrive\Desktop\CMDApplication\Project\CMD.Patients\CMD.Patients.Repository\bin\Debug\EntityFramework.dll
+C:\Users\shash\OneDrive\Desktop\CMDApplication\Project\CMD.Patients\CMD.Patients.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\shash\OneDrive\Desktop\CMDApplication\Project\CMD.Patients\CMD.Patients.Repository\bin\Debug\CMD.Patients.Models.pdb
+C:\Users\shash\OneDrive\Desktop\CMDApplication\Project\CMD.Patients\CMD.Patients.Repository\bin\Debug\CMD.Patients.Models.dll.config
+C:\Users\shash\OneDrive\Desktop\CMDApplication\Project\CMD.Patients\CMD.Patients.Repository\bin\Debug\EntityFramework.xml
+C:\Users\shash\OneDrive\Desktop\CMDApplication\Project\CMD.Patients\CMD.Patients.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\shash\OneDrive\Desktop\CMDApplication\Project\CMD.Patients\CMD.Patients.Repository\obj\Debug\CMD.Patients.Repository.csproj.AssemblyReference.cache
+C:\Users\shash\OneDrive\Desktop\CMDApplication\Project\CMD.Patients\CMD.Patients.Repository\obj\Debug\CMD.Patients.Repository.csproj.CoreCompileInputs.cache
+C:\Users\shash\OneDrive\Desktop\CMDApplication\Project\CMD.Patients\CMD.Patients.Repository\obj\Debug\CMD.Patients.Repository.csproj.CopyComplete
+C:\Users\shash\OneDrive\Desktop\CMDApplication\Project\CMD.Patients\CMD.Patients.Repository\obj\Debug\CMD.Patients.Repository.dll
+C:\Users\shash\OneDrive\Desktop\CMDApplication\Project\CMD.Patients\CMD.Patients.Repository\obj\Debug\CMD.Patients.Repository.pdb
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.Repository\bin\Debug\CMD.Patients.Repository.dll.config
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.Repository\bin\Debug\CMD.Patients.Repository.dll
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.Repository\bin\Debug\CMD.Patients.Repository.pdb
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.Repository\bin\Debug\CMD.Patients.Models.dll
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.Repository\bin\Debug\EntityFramework.dll
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.Repository\bin\Debug\CMD.Patients.Models.pdb
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.Repository\bin\Debug\CMD.Patients.Models.dll.config
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.Repository\bin\Debug\EntityFramework.xml
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.Repository\obj\Debug\CMD.Patients.Repository.csproj.AssemblyReference.cache
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.Repository\obj\Debug\CMD.Patients.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.Repository\obj\Debug\CMD.Patients.Repository.csproj.CopyComplete
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.Repository\obj\Debug\CMD.Patients.Repository.dll
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.Repository\obj\Debug\CMD.Patients.Repository.pdb
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.Repository\obj\Debug\CMD.Patients.Repository.Migrations.innni.resources
+C:\Users\Paras1610\Desktop\Final CMD code\CMDproject\Project\CMD.Patients\CMD.Patients.Repository\obj\Debug\CMD.Patients.Repository.csproj.GenerateResource.cache
+C:\Users\Paras1610\Desktop\ATMECS GIT\BackEnd\Patient\patient_service\CMD.Patients.Repository\bin\Debug\CMD.Patients.Repository.dll.config
+C:\Users\Paras1610\Desktop\ATMECS GIT\BackEnd\Patient\patient_service\CMD.Patients.Repository\bin\Debug\CMD.Patients.Repository.dll
+C:\Users\Paras1610\Desktop\ATMECS GIT\BackEnd\Patient\patient_service\CMD.Patients.Repository\bin\Debug\CMD.Patients.Repository.pdb
+C:\Users\Paras1610\Desktop\ATMECS GIT\BackEnd\Patient\patient_service\CMD.Patients.Repository\bin\Debug\CMD.Patients.Models.dll
+C:\Users\Paras1610\Desktop\ATMECS GIT\BackEnd\Patient\patient_service\CMD.Patients.Repository\bin\Debug\EntityFramework.dll
+C:\Users\Paras1610\Desktop\ATMECS GIT\BackEnd\Patient\patient_service\CMD.Patients.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Paras1610\Desktop\ATMECS GIT\BackEnd\Patient\patient_service\CMD.Patients.Repository\bin\Debug\CMD.Patients.Models.pdb
+C:\Users\Paras1610\Desktop\ATMECS GIT\BackEnd\Patient\patient_service\CMD.Patients.Repository\bin\Debug\CMD.Patients.Models.dll.config
+C:\Users\Paras1610\Desktop\ATMECS GIT\BackEnd\Patient\patient_service\CMD.Patients.Repository\bin\Debug\EntityFramework.xml
+C:\Users\Paras1610\Desktop\ATMECS GIT\BackEnd\Patient\patient_service\CMD.Patients.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Paras1610\Desktop\ATMECS GIT\BackEnd\Patient\patient_service\CMD.Patients.Repository\obj\Debug\CMD.Patients.Repository.csproj.AssemblyReference.cache
+C:\Users\Paras1610\Desktop\ATMECS GIT\BackEnd\Patient\patient_service\CMD.Patients.Repository\obj\Debug\CMD.Patients.Repository.Migrations.innni.resources
+C:\Users\Paras1610\Desktop\ATMECS GIT\BackEnd\Patient\patient_service\CMD.Patients.Repository\obj\Debug\CMD.Patients.Repository.csproj.GenerateResource.cache
+C:\Users\Paras1610\Desktop\ATMECS GIT\BackEnd\Patient\patient_service\CMD.Patients.Repository\obj\Debug\CMD.Patients.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Paras1610\Desktop\ATMECS GIT\BackEnd\Patient\patient_service\CMD.Patients.Repository\obj\Debug\CMD.Patients.Repository.csproj.CopyComplete
+C:\Users\Paras1610\Desktop\ATMECS GIT\BackEnd\Patient\patient_service\CMD.Patients.Repository\obj\Debug\CMD.Patients.Repository.dll
+C:\Users\Paras1610\Desktop\ATMECS GIT\BackEnd\Patient\patient_service\CMD.Patients.Repository\obj\Debug\CMD.Patients.Repository.pdb

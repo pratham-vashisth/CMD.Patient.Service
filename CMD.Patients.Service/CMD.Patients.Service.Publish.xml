@@ -1,0 +1,33 @@
+<publishData>
+  <publishTarget publishUrl="http://localhost/">
+    <file relUrl="bin/CMD.Patients.Repository.dll.config" publishTime="10/27/2022 01:41:38" />
+    <file relUrl="bin/CMD.Patients.Service.dll.config" publishTime="11/07/2022 00:49:41" />
+    <file relUrl="CMD.Patients.Service.csproj.user" publishTime="10/27/2022 01:23:08" />
+    <file relUrl="bin/CMD.Patients.Repository.pdb" publishTime="11/10/2022 14:13:26" />
+    <file relUrl="bin/EntityFramework.SqlServer.dll" publishTime="10/27/2022 01:23:10" />
+    <file relUrl="bin/CMD.Patients.Service.pdb" publishTime="11/10/2022 14:13:27" />
+    <file relUrl="bin/CMD.Patients.DTOs.dll" publishTime="11/10/2022 12:20:38" />
+    <file relUrl="CMD.Patients.Service.csproj" publishTime="10/27/2022 01:23:08" />
+    <file relUrl="bin/CMD.Patients.Models.pdb" publishTime="11/10/2022 12:20:38" />
+    <file relUrl="bin/CMD.Patients.DTOs.pdb" publishTime="11/10/2022 12:20:38" />
+    <file relUrl="bin/CMD.Patients.Repository.dll" publishTime="11/10/2022 14:13:26" />
+    <file relUrl="Properties/AssemblyInfo.cs" publishTime="10/27/2022 01:23:08" />
+    <file relUrl="packages.config" publishTime="10/27/2022 01:23:08" />
+    <file relUrl="bin/AutoMapper.xml" publishTime="10/27/2022 01:23:08" />
+    <file relUrl="bin/EntityFramework.xml" publishTime="10/27/2022 01:23:10" />
+    <file relUrl="bin/CMD.Patients.Service.dll" publishTime="11/10/2022 14:13:27" />
+    <file relUrl="bin/AutoMapper.dll" publishTime="10/27/2022 01:23:08" />
+    <file relUrl="IPatientService.cs" publishTime="10/28/2022 02:56:32" />
+    <file relUrl="bin/CMD.Patients.Models.dll" publishTime="11/10/2022 12:20:38" />
+    <file relUrl="bin/EntityFramework.SqlServer.xml" publishTime="10/27/2022 01:23:10" />
+    <file relUrl="CMD.Patients.Service.PatientService.svc" publishTime="11/11/2022 19:56:45" />
+    <file relUrl="bin/CMD.Patients.Models.dll.config" publishTime="10/27/2022 01:23:06" />
+    <file relUrl="bin/CMD.Patients.BusinessLogic.dll" publishTime="11/10/2022 14:13:26" />
+    <file relUrl="App.config" publishTime="11/07/2022 00:49:41" />
+    <file relUrl="Web.config" publishTime="11/07/2022 00:49:41" />
+    <file relUrl="PatientService.cs" publishTime="10/28/2022 17:38:02" />
+    <file relUrl="bin/EntityFramework.dll" publishTime="10/27/2022 01:23:10" />
+    <file relUrl="bin/CMD.Patients.BusinessLogic.pdb" publishTime="11/10/2022 14:13:26" />
+    <file relUrl="Patient.cs" publishTime="11/08/2022 21:59:48" />
+  </publishTarget>
+</publishData>
